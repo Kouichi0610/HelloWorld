@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         val ret = if(a >= 10) "Big" else "Small"
 
         button.setOnClickListener { v ->
-            textView.text = "Clicked."
+            textView.text = "Clicked2."
         }
 
 
